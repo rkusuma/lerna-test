@@ -12,5 +12,6 @@
   "dependencies": {
     "sometext": "^1.0.0",
     "uppercase": "^1.0.0"
-  }
+  },
+  "gitHead": "5fc1de86fee9cbb96ca40ce95bc6a18470a945f3"
 }

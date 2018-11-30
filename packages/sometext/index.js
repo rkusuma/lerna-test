@@ -1,1 +1,1 @@
-module.exports = 'sometexttt';
+module.exports = 'sometext';
