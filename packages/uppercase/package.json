@@ -1,5 +1,5 @@
 {
-  "name": "uppercase",
+  "name": "ku-uppercase",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "5fc1de86fee9cbb96ca40ce95bc6a18470a945f3"
+  "gitHead": "ccf8433cb0c71167230cc4c937be3c804f93290d"
 }
