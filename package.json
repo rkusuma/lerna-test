@@ -1,0 +1,7 @@
+{
+  "name": "lerna-repo",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.5.0"
+  }
+}
